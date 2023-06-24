@@ -1,0 +1,17 @@
+{
+    "name": "mann/crud-php",
+    "autoload": {
+        "psr-4": {
+            "Mann\\CrudPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marko",
+            "email": "marcofermatta@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
